@@ -147,7 +147,7 @@ function draw()
   rope3.show();
 
   Engine.update(engine);
-  ground.show();
+  //ground.show();
 
   drawSprites();
 
